@@ -1,0 +1,85 @@
+{
+    "products":[
+      {
+        "img": "1.png",
+        "title": "Самый клевый чайник, который надо купить!",
+        "price": "999",
+        "article": "T1",
+        "category": "Kettle",
+        "tocart": "false",
+        "topreview": "false"
+      },
+      {
+        "img": "1.png",
+        "title": "Самый клевый чайник ЧАЕК-1000",
+        "price": "1999",
+        "article": "T2",
+        "category": "Kettle",
+        "tocart": "false",
+        "topreview": "false"
+      },
+      {
+        "img": "1.png",
+        "title": "Самый клевый чайник ЧАЕК-2000",
+        "price": "5000",
+        "article": "T3",
+        "category": "Kettle",
+        "tocart": "false",
+        "topreview": "false"
+      },
+      {
+        "img": "1.png",
+        "title": "Лучший холодильник ХОЛОДОС-3000",
+        "price": "100000",
+        "article": "I1",
+        "category": "Icebox",
+        "tocart": "false",
+        "topreview": "false"
+      },
+      {
+        "img": "1.png",
+        "title": "Лучший холодильник ХОЛОДОС-4000",
+        "price": "100000",
+        "article": "I2",
+        "category": "Icebox",
+        "tocart": "false",
+        "topreview": "false"
+      },
+      {
+        "img": "1.png",
+        "title": "Лучший холодильник ХОЛОДОС-5000",
+        "price": "200000",
+        "article": "I3",
+        "category": "Icebox",
+        "tocart": "false",
+        "topreview": "false"
+      },
+      {
+        "img": "1.png",
+        "title": "Лучшая микроволновка МИКРОВЭЙВ-2000",
+        "price": "10000",
+        "article": "M1",
+        "category": "Microwaves",
+        "tocart": "false",
+        "topreview": "false"
+      },
+      {
+        "img": "1.png",
+        "title": "Лучшая микроволновка МИКРОВЭЙВ-3000",
+        "price": "40000",
+        "article": "M2",
+        "category": "Microwaves",
+        "tocart": "false",
+        "topreview": "false"
+      },
+      {
+        "img": "1.png",
+        "title": "Лучшая микроволновка МИКРОВЭЙВ-5000",
+        "price": "110000",
+        "article": "M3",
+        "category": "Microwaves",
+        "tocart": "false",
+        "topreview": "false"
+      }
+    ]
+  }
